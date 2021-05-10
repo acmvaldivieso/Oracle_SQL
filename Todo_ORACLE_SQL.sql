@@ -3,7 +3,7 @@
 
 -- Tips para generar nombres de relaciones mas cortos:
 
--- Herramientas >> Configuración a nivel de diseño >> Cambiar clave ajena : FK_SUBSTR(2, 3, FRONT, {parent})_SUBSTR(3, 3,FRONT,  {child})
+-- Herramientas >> Configuración a nivel de diseño >> Cambiar clave ajena : FK_SUBSTR(2, 3, FRONT, {parent})_SUBSTR(2, 3,FRONT,  {child})
 -- Herramientas >> Configuración a nivel de diseño >> Cambiar clave ajena de columna : {ref column} 
 
 
